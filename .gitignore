@@ -1,3 +1,6 @@
 # Cursor IDE settings
 .cursor/
 .DS_Store
+
+# Hold prefix - work in progress or paused items
+\[hold\]*
